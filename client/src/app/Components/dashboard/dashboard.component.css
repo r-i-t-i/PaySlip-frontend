@@ -30,6 +30,13 @@ button{
     display: flex;
     background-color: #FDF3F8;
     padding: 24px 256px;
+    align-items: center;
+}
+
+.title{
+    max-height: fit-content;
+    margin-left: auto;
+    display: flex;
 }
 
 section{
